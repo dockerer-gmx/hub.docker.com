@@ -1,7 +1,7 @@
 ---
 name: " Request new Image"
 about: Suggestion for a new Docker Image including some starting point.
-title: ''
+title: "[REQUEST][IMAGE] %IMAGE% - mini description"
 labels: enhancement
 assignees: ''
 

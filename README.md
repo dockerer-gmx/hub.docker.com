@@ -9,7 +9,7 @@ public repository for docker images on https://hub.docker.com/u/dockerergmx
 - l: symlink
 
 # TODO
-- [ ] pull to branch "initialize" (aka ini-branch)
+- [x] pull to branch "initialize" (aka ini-branch)
 - [ ] in ini-branch create structure, files and folders, templates, etc
 - [ ] ...
 
